@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "0d15214d0b6466c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b92dbbc6c60b9674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ba428544bad4b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Strategy Phases/Phase 00 - Current State Assessment/Phase 00 - Task Tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 00 - Task Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27851020680ce642",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2add26e2664f802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e33d2b46bbde05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96f93ee6038a5fbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a532eb7b83edc565",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "877795bab15d9348",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0cd47a2748febb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5aa5b318afe3b42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "904d5dc182e6517b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f9f0484d8034749d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "335f563cfd9b4fff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bdfaa38a566a38aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "31ba428544bad4b1",
+  "lastOpenFiles": [
+    "00 - Dashboard/Strategy Dashboard.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/Phase 00 - Task Tracker.md",
+    "02 - Strategic Decisions/Financial Planning and Growth Budget Policy.md",
+    "02 - Strategic Decisions/Decision Log.md",
+    "README.md",
+    "10 - Working Summery/Phase 00 -  Working Summary.md",
+    "04 - Reference/Project Context and Glossary.md",
+    "04 - Reference",
+    "03 - Assumptions & Validation/Assumptions Register.md",
+    "03 - Assumptions & Validation",
+    "02 - Strategic Decisions",
+    "01 - Strategy Phases/Phase 07 - Strategy Execution and Control/README.md",
+    "01 - Strategy Phases/Phase 07 - Strategy Execution and Control",
+    "01 - Strategy Phases/Phase 06 - Operating Model/README.md",
+    "01 - Strategy Phases/Phase 06 - Operating Model",
+    "01 - Strategy Phases/Phase 05 - Go-to-Market and Growth/README.md",
+    "01 - Strategy Phases/Phase 05 - Go-to-Market and Growth",
+    "01 - Strategy Phases/Phase 04 - Business Model and Product Strategy/README.md",
+    "01 - Strategy Phases/Phase 04 - Business Model and Product Strategy",
+    "01 - Strategy Phases/Phase 03 - Business Strategy/README.md",
+    "01 - Strategy Phases/Phase 03 - Business Strategy",
+    "01 - Strategy Phases/Phase 02 - Market and Competitive Analysis/README.md",
+    "01 - Strategy Phases/Phase 02 - Market and Competitive Analysis",
+    "01 - Strategy Phases/Phase 01 - Strategic Direction/README.md",
+    "01 - Strategy Phases/Phase 01 - Strategic Direction",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/Phase 00 - Working Summary.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.9 - Financial and Cost Structure.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.8 - Human Resources and Operating Capacity.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.7 - Technology and Operational Readiness.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.6 - Marketing and Brand Readiness.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.5 - Market Customers and Sales Status.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.4 - Suppliers and Partnerships.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.3 - Operations and Service Delivery.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.2 - Product and Current Capabilities.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.1 - Company Structure and Ownership.md",
+    "01 - Strategy Phases/Phase 00 - Current State Assessment/00.10 - Phase 00 Readiness and Closeout.md"
+  ]
+}
